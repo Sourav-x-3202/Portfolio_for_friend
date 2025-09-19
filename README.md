@@ -69,7 +69,8 @@ This project is a perfect example of how I help clients **build a professional o
 If you want a **custom portfolio or web application** like this:  
 - **Email:** mr.sourav.sharma.01@gmail.com  
 - **LinkedIn:** [linkedin.com/in/sourav-sharma](https://linkedin.com/in/sourav-sharma)  
-- **GitHub:** [Sourav-x-3202](https://github.com/Sourav-x-3202)  
+- **GitHub:** [Sourav-x-3202](https://github.com/Sourav-x-3202)
+- **Portfolio:** [Sourav-x-3202](https://sourav-x-3202.github.io/portfolio/)
 
 ---
 
